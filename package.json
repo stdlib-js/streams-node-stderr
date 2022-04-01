@@ -1,0 +1,28 @@
+{
+  "name": "@stdlib/streams-node-stderr",
+  "version": "0.0.0",
+  "description": "Standard error.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/streams-node-stderr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdstreams",
+    "stream",
+    "stderr",
+    "standard",
+    "error"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
