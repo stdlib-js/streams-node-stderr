@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/streams-node-stderr",
-  "version": "0.0.0",
+  "version": "0.0.7",
   "description": "Standard error.",
   "license": "Apache-2.0",
   "author": {
