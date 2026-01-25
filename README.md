@@ -82,7 +82,7 @@ stderr.write( 'Oh no!', 'utf8' );
 ## Notes
 
 -   Unlike other streams, `stderr` can **never** be closed and, thus, never emits a `'finish'` event.
--   Although rare, writes can block when output is redirected to a file. 
+-   Although rare, writes can block when output is redirected to a file.
 
 </section>
 
@@ -158,7 +158,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -184,8 +184,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 
 -->
 
-[chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
+[chat-image]: https://img.shields.io/badge/zulip-join_chat-brightgreen.svg
+[chat-url]: https://stdlib.zulipchat.com
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
